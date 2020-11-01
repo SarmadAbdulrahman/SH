@@ -6,7 +6,7 @@ class Network
 {
 
 
-  final String _url = 'http://iq-tms.com/api';
+  final String _url = 'your server ';
   //if you are using android studio emulator, change localhost to 10.0.2.2
   var token;
 
